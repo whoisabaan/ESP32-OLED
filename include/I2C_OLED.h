@@ -1,5 +1,5 @@
 #include <driver/gpio.h>
-#include <driver/i2c.h>
+#include <driver/i2c_master.h>
 #include "freertos/portmacro.h"
 #include "hal/i2c_types.h"
 #include <unistd.h>
